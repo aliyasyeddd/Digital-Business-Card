@@ -8,40 +8,42 @@ body {
 }
 
 main {
-  width: 550px;
+  width: 317px;
   background-color: white;
-  height: 100%;
   margin: 0 auto;
   margin-top: 48px;
   opacity: 1;
   border-radius: 10px;
+  overflow: hidden;
 }
 
 
 .profile-pic {
   width: 100%;
-  border-radius: 10px;
+  height: 317px;
+  object-fit: cover;
+  display: block;
 }
 
 .profile-name {
   text-align: center;
-  font-size: 2.5rem;
+  font-size: 1.563rem;
   font-weight: 700;
   color: #2B283A;
   margin-bottom: 0.4em;
 }
 
 .profile-role {
-  font-size: 28px;
+  font-size: 0.99rem;
   color: #F47D27;
   text-align: center;
   margin-top: 0;
-  margin-bottom: 1.0em;
+  margin-bottom: 1.2em;
 }
 
 .profile-portfolio {
   color: #4A4E74;
-  font-size: 20px;
+  font-size: 0.86rem;
   text-align: center;
   line-height: 1;
   margin-top: 0;
@@ -68,37 +70,48 @@ main {
 .email-btn {
   border: 2px solid #E3E3E3;
   color: #1E1F26;
-  font-size: 20px;
 }
 
 .linkedin-btn {
   border: none;
   background-color: #297FE5;
   color: #ffffff;
-  font-size: 20px;
+}
+
+.email-btn,
+.linkedin-btn {
+  font-size: 0.8rem;
 }
 
 .about {
-  padding: 20px;
+  padding: 20px 20px 10px;
 }
 
-.about-title {
-  font-size: 2rem;
+.interests {
+  padding: 10px 20px 20px;
+}
+
+
+.about-title,
+.interests-title {
+  font-size: 1.4rem;
   color: #2B283A;
   margin-bottom: 0px;
 }
 
-.profile-description {
-  font-size: 1.2rem;
+.profile-description,
+.profile-interests {
+  font-size: 0.94rem;
   color: #4A4E74;
   font-weight: 400;
 }
 
 
 
-
 .footer {
   background: #D5D4D8;
+  width: 317px;
+  height: 64px;
 }
 
 .footer-icons {
@@ -108,3 +121,7 @@ main {
   padding: 20px 0;
 }
 
+.footer-icons .icons {
+  width: 25px;
+  height: 25px;
+}
