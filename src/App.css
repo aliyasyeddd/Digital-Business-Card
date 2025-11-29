@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #23252c;
+}
+
+main {
+  width: 550px;
+  background-color: white;
+  height: 100%;
+  margin: 0 auto;
+  margin-top: 48px;
+  opacity: 1;
+  border-radius: 4px;
+}
+
+
+.footer {
+  background: #D5D4D8;
+}
+
+.footer-icons {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 0;
+}
+
