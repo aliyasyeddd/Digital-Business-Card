@@ -78,6 +78,24 @@ main {
   font-size: 20px;
 }
 
+.about {
+  padding: 20px;
+}
+
+.about-title {
+  font-size: 2rem;
+  color: #2B283A;
+  margin-bottom: 0px;
+}
+
+.profile-description {
+  font-size: 1.2rem;
+  color: #4A4E74;
+  font-weight: 400;
+}
+
+
+
 
 .footer {
   background: #D5D4D8;
