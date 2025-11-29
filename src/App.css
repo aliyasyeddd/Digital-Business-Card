@@ -28,6 +28,54 @@ main {
   font-size: 2.5rem;
   font-weight: 700;
   color: #2B283A;
+  margin-bottom: 0.4em;
+}
+
+.profile-role {
+  font-size: 28px;
+  color: #F47D27;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1.0em;
+}
+
+.profile-portfolio {
+  color: #4A4E74;
+  font-size: 20px;
+  text-align: center;
+  line-height: 1;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.social-link-btns {
+  display: flex;
+  gap: 20px; 
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.social-link-btns button {
+  display: flex;
+  align-items: center;
+  gap: 6px; 
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.email-btn {
+  border: 2px solid #E3E3E3;
+  color: #1E1F26;
+  font-size: 20px;
+}
+
+.linkedin-btn {
+  border: none;
+  background-color: #297FE5;
+  color: #ffffff;
+  font-size: 20px;
 }
 
 
