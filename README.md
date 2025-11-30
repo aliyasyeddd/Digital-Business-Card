@@ -50,7 +50,7 @@ This web app displays a simple digital business card that includes a profile ima
  ![App Screenshot](./src/assets/demo.png) 
  
  
- 🔗 **Live Demo:** [https://your-demo-link.vercel.app](https://digital-business-card-beige-delta.vercel.app/) 
+ 🔗 **Live Demo:** (https://digital-business-card-beige-delta.vercel.app/) 
 
 ---
 🛠️ Installation / Usage
