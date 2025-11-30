@@ -46,7 +46,8 @@ This web app displays a simple digital business card that includes a profile ima
 ---
 
 --- ## 🖼️ Screenshots / Demo
- ![App Screenshot](./assets/demo.png) 
+
+ ![App Screenshot](./src/assets/demo.png) 
  
  
  🔗 **Live Demo:** [https://your-demo-link.vercel.app](https://your-demo-link.vercel.app) ---
