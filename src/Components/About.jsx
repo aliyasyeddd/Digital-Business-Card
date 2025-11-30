@@ -1,4 +1,3 @@
-import React from "react";
 import Profile from "../assets/Aliya.jpg";
 
 const About = () => {

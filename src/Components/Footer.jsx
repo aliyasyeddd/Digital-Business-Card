@@ -1,4 +1,4 @@
-import React from 'react'
+
 import instagram from '../assets/instagram.png'
 import Facebook from '../assets/Facebook.png'
 import twitter from '../assets/twitter.png'
